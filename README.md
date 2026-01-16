@@ -1,4 +1,4 @@
-# 8-bit Breadboard Computer (Ben Eater SAP-1)
+# 8-bit Breadboard Computer
 
 A fully functional 8-bit computer built from TTL logic chips on breadboards, inspired by Ben Eater's SAP-1 design during my gap holidays before starting my university.
 
