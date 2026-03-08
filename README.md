@@ -30,8 +30,9 @@ A fully functional 8-bit computer built from TTL logic chips on breadboards, ins
 
 ## 🧮 Instruction Sets
 - Here are all the instruction sets that this computer can execute
-  ![FIRST PAGE](instructionSet/instruct.jpg)
-  ![FIRST PAGE](instructionSet/instructA.jpg)
+- ![FIRST PAGE](instructionSet/Instruct.jpg)
+- ![SECOND PAGE](instructionSet/InstructA.jpg)
+
 
 
 
