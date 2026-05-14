@@ -33,8 +33,8 @@ A fully functional 8-bit computer built from TTL logic chips on breadboards, ins
 - ![FIRST PAGE](instructionSet/Instruct.jpg)
 - ![SECOND PAGE](instructionSet/InstructA.jpg)
 
-
-
+## UET EXHIBITION
+![Front View](photos/exhibition.jpg)
 
 ## 🧩 Skills Learned
 - Digital logic design
